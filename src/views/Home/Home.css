@@ -1,0 +1,13 @@
+.home-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  background-image: url('https://virtualbackgrounds.site/wp-content/uploads/2020/08/the-matrix-digital-rain.jpg');
+}
+
+.home-container > h1 {
+  padding: 1rem;
+  font-size: 5rem;
+  background-color: rgba(0, 0, 0, 0.692);
+}
