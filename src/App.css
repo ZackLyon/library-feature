@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  align-items: center;
+  height: 6vh;
+}
+
+.nav-link {
+  color: rgb(0, 255, 21);
+  margin-right: 1vw;
+  font-size: 1.5rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav-link:active {
+  text-decoration: none;
+  font-weight: bold;
+}
